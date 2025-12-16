@@ -4,8 +4,9 @@
     "target_path": "hardware/oplus"
   },
   {
-    "repository": "PixelOS-Devices/android_kernel_oneplus_sm8350",
-    "target_path": "kernel/oneplus/sm8350"
+    "repository": "whyredfire/android_kernel_oneplus_sm8350",
+    "target_path": "kernel/oneplus/sm8350",
+    "branch": "lineage-23.0"
   },
   {
     "remote": "gitlab",
